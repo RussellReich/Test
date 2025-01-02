@@ -4,11 +4,19 @@
   "songs": [
     {
       "type":"song",
-      "name":"Never Gonna Give You Up.dfpwm",
+      "name":"Never Gonna Give You Up",
       "author": "Rick Astley",
       "speed": 1,
       "file":"https://github.com/RussellReich/Test/raw/refs/heads/main/Rick%20Astley%20-%20Never%20Gonna%20Give%20You%20Up.dfpwm",
       "time": 210
+    },
+    {
+      "type":"song",
+      "name":"No Time For Caution",
+      "author": "Hans Zimmer",
+      "speed": 1,
+      "file":"https://github.com/RussellReich/Test/raw/refs/heads/main/Hans%20Zimmer%20-%20No%20Time%20For%20Caution.dfpwm",
+      "time": 240
     }
   ]
 }
