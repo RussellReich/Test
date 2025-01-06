@@ -25,6 +25,14 @@
       "speed": 1,
       "file":"https://github.com/RussellReich/Test/raw/refs/heads/main/Ludwig%20Goransson%20-%20Can%20You%20Hear%20The%20Music.dfpwm",
       "time": 110
+    },
+    {
+      "type":"song",
+      "name":"Subwoofer Lullaby",
+      "author": "C418",
+      "speed": 1,
+      "file":"https://github.com/RussellReich/Test/raw/refs/heads/main/C418%20-%20Subwoofer%20Lullaby.dfpwm",
+      "time": 208
     }
   ]
 }
